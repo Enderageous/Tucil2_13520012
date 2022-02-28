@@ -21,11 +21,11 @@ plt.title(str(data.feature_names[0]) + " vs " + str(data.feature_names[1]))
 plt.xlabel(data.feature_names[0])
 plt.ylabel(data.feature_names[1])
 ```
-   dan
+⋅⋅⋅dan
 ``` python
 bucket = bucket.iloc[:,[0,1]].values
 ```
-   Angka 0 dan 1 bisa diganti dengan angka kolom lain.
+⋅⋅⋅Angka 0 dan 1 bisa diganti dengan angka kolom lain.
 Di tempat angka 0, semua angkanya harus sama, begitu pula di tempat angka 1
 
 ## Pembuat
