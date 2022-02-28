@@ -1,7 +1,8 @@
 # Tucil2_13520012
 
 ## Deskripsi Program
-Program ini adalah program yang dapat mencari convex hull dari sebuah dataset
+Program ini adalah program yang dapat mencari convex hull dari sebuah dataset dengan menggunakan
+algoritma divide and conquer
 
 ## Requirement
 1. Python
